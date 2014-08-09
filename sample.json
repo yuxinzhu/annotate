@@ -1,0 +1,33 @@
+{
+	"snippets": [
+		{
+			"annotation": "<p>Business is like a multidimensional probabilistic chessboard. The rules aren't set, and the same moves don't always make you win. A lot of people can be really good in a set-piece battle; my biggest differentiating skill is I can invent new pieces.</p>",
+			"note": "This is a really good quote by Elon Musk, CEO of Tesla, SpaceX",
+			"tags": ["quotes", "inspirational"]
+		},
+		{
+			"annotation": "<h1>Money has never made man happy, nor will it, there is nothing in its nature to produce happiness. The more of it one has the more one wants.</h1>",
+			"notes": "This is one of Benjamin Franklin's most famous quotes!",
+			"tags": ["quotes", "benjamin franklin"]
+		},
+		{
+			"annotation": "<p>Forgot about Dre - Dr Dre & Eminem</p>",
+			"notes": "Chris Pratt rapped to this on the radio!",
+			"tags": ["music"]
+		}
+	],
+	"tags": {
+		"quotes": {
+			"color": "#41A85F"
+		},
+		"inspirational": {
+			"color": "#553982"
+		},
+		"bejamin franklin": {
+			"color": "#28324E"
+		},
+		"music": {
+			"color": "#F37934"
+		}
+	}
+}
