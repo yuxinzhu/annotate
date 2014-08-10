@@ -1,0 +1,43 @@
+@main-font: 'Droid Serif', serif;
+@highlight-color: #f7da64;
+@note-font: 'Raleway', sans-serif;
+
+body {
+	height: 100%;
+	width: 100%;
+	background-color: #f5f5f5;
+}
+
+.header-container {
+	margin: 30px;
+	font-family: @main-font;
+	h1 {
+		font-size: 45px;
+	}
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    li {
+    	margin: 30px;
+    	
+
+    	.highlight {
+    		font-family: @main-font;
+    		line-height: 30px;
+    		font-size: 18px;
+    		background-color: @highlight-color;
+    	}
+    	.sidebar-container {
+    		vertical-align: middle;
+	    	.comment {
+	    		font-size: 12px;
+	    		font-family: @note-font;
+	    	}    		
+    	}
+
+    }
+}
+
